@@ -1,4 +1,3 @@
-
 const Card = ({film}) =>{
     return(
         <div className='film-wrapper'>

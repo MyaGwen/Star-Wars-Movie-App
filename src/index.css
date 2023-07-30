@@ -46,11 +46,8 @@ h2{
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 40px;
   margin-bottom: 40px;
-<<<<<<< HEAD
-=======
   padding-left: 10%;
   padding-right: 10%;
->>>>>>> 70b69b654d1f35a3b4117930620850af5b58b1d0
 }
 
 .film-wrapper {
